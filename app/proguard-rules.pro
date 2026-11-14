@@ -1,0 +1,5 @@
+-keep class com.reandroid.** { *; }
+-dontwarn com.reandroid.**
+-dontwarn java.awt.**
+-dontwarn javax.swing.**
+-keep class com.android.apksig.** { *; }

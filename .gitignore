@@ -1,0 +1,9 @@
+.gradle/
+build/
+local.properties
+*.iml
+.idea/
+app/libs/*.jar
+app/src/main/assets/debug.p12
+*.keystore
+*.jks
